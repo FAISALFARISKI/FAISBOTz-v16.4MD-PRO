@@ -1782,6 +1782,13 @@ exports.tos = (ownernomer) => {
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
+SCAN QRIS DI ATAS MELALUI APLIKASI YANG ADA FITUR SCAN QRIS!
+
+ATAU DONASI MELALUI:
+DANA ID: 083171790484
+SAWERIA: https://saweria.co/FaisAlfaRiski
+PULSA: 083171790484
+
 Berapapun donasi kalian akan sangat berarti 👍
 Buat kalian yang sudah donasi bisa kirim bukti
 donasi ke owner agar bisa di masukkan ke list donasi
